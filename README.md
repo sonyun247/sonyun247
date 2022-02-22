@@ -4,7 +4,7 @@
 
 **About me**
 
-- [My Tiny Blog 🏗](https://sonyun247.github.io/)  - I'm making on it!😂
+- [My Tiny Blog](https://sonyun247.github.io/)
 
 **Languages and Tools:**
 
